@@ -13,4 +13,6 @@
 .nav {
 height: 50px;
 padding: 10px;
+color: black;
+font-weight: bold;
 }
